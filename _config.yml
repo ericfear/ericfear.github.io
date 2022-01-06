@@ -133,6 +133,12 @@ facebook:
   publisher: https://www.facebook.com/ArtofFear
   username: facebook_username
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-TLJ8YFZG4Z"
+    anonymize_ip: false # default
+
 category_archive:
   type: liquid
   path: /categories/
