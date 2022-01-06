@@ -136,7 +136,7 @@ facebook:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-TLJ8YFZG4Z"
+    tracking_id: "G-ZYNSZKPWMG"
     anonymize_ip: false # default
 
 category_archive:
