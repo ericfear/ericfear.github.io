@@ -13,10 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Eric's Website.
+title: Technical Art
+title_seperator: |
+subtitle: WIP
 email: eric@totallywickedgames.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Eric Fear - Technical Artist.
+  Eric Fear is a Technical Artist from Sydney, Australia working in the video game industry. Specialising in Unreal Engine, Rigging/Animation tools, pipeline, and art leadership.
 twitter_username: ericfear
 github_username: ericfear
 minimal_mistakes_skin: dark
