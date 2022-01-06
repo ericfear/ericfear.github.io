@@ -67,6 +67,7 @@ author:
   name   : "Eric Fear"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Technical Artist for video games."
+  location: Sydney, Australia
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
