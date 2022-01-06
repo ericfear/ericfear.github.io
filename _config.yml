@@ -20,6 +20,7 @@ email: eric@totallywickedgames.com
 description: >- # this means to ignore newlines until "baseurl:"
   Eric Fear is a Technical Artist from Sydney, Australia working in the video game industry. Specialising in Unreal Engine, Rigging/Animation tools, pipeline, and art leadership.
 twitter_username: ericfear
+facebook_username: ericfear
 github_username: ericfear
 minimal_mistakes_skin: dark
 search: true
@@ -36,6 +37,10 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+
+atom-feed:
+  hide: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -119,6 +124,14 @@ comments:
     emit-metadata: 0
     theme: transparent_dark
     lang: en
+
+twitter:
+  username: twitter_username
+
+facebook:
+  app_id: 295587899197964
+  publisher: https://www.facebook.com/ArtofFear
+  username: facebook_username
 
 category_archive:
   type: liquid
