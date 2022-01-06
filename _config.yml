@@ -23,6 +23,7 @@ twitter_username: ericfear
 github_username: ericfear
 minimal_mistakes_skin: dark
 search: true
+repository: ericfear/ericfear.github.io
 
 # Build settings
 markdown: kramdown
@@ -106,6 +107,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id: R_kgDOGnLq_A
+    category_name: Announcements
+    category_id: DIC_kwDOGnLq_M4CAkBU
+    mapping: title
+    reactions_enabled: 1
+    emit-metadata: 0
+    theme: transparent_dark
+    lang: en
 
 category_archive:
   type: liquid
